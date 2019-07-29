@@ -1,0 +1,25 @@
+filip 1 1 0 0
+jano 0 0 1 0
+karol 0 1 0 0
+lucia 1 0 1 0
+marek 1 0 0 0
+matej 0 1 1 0
+miro 1 0 1 0
+peter 0 0 1 0
+
+Eva 5
+Jan 2
+Filip 8
+Martin 7
+Palo 7
+Petra 8
+Lucia 1
+Jozef 3
+Jakub 8
+Peter 4
+Branislav 3
+Stefan 7
+
+15.07.2018 Eva 1 1 1 29.07.2018  
+15.07.2018 Martin 1 120000 1 19.07.2018  
+15.07.2018 Martin 0 4000 1 20.07.2018  
